@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-restfulapi
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: TP012359
+Implementation-Vendor-Id: com.sumit.springboot
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-restfulapi
+Created-By: Maven Integration for Eclipse
+
